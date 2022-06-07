@@ -5,16 +5,59 @@ h1,h2,h3{
     text-align: center;
     
 }
-p{
+.p{
     color : gold;
     background: blue;
     
 }
+.paraf{
+color: #3e8e41;
+background-image: url(https://imgs.search.brave.com/iegaZXK_-8tEcz1fGcMgb0b5KtmpAA_hSHFWkncr6YQ/rs:fit:800:500:1/g:ce/aHR0cDovL2Nkbi5z/aG9waWZ5LmNvbS9z/L2ZpbGVzLzEvMDI3/MS83MjA5L2ZpbGVz/L2N0aHVsaHViLmpw/Zz92PTE1OTY4MjEx/MzM);
+
+
+}
 body{
     background-image: url(https://imgs.search.brave.com/ZS83ToE7yMEUVV7wBYaIJsCj1irLRLiq_hjZR2pEuSk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8zLzUv/SDZwSVJhLmpwZw);
-    
+    background-attachment:fixed;
     }
     a{
 color: cornsilk;
 
+}
+.nav1{
+    color: blue;
+background-color: orange;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: oblique;
+text-align: center;
+word-spacing: 40px;
     }
+.nav2{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: fixed;
+    list-style-position: outside;
+    list-style-type: circle;
+}
+.nav2:hover{
+    background-color: #3e8e41
+}
+.nav2:active{
+
+    background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
