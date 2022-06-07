@@ -1,0 +1,20 @@
+h1,h2,h3{
+    font-family: fantasy;
+    color: aquamarine;
+    padding-left: auto;
+    text-align: center;
+    
+}
+p{
+    color : gold;
+    background: blue;
+    
+}
+body{
+    background-image: url(https://imgs.search.brave.com/ZS83ToE7yMEUVV7wBYaIJsCj1irLRLiq_hjZR2pEuSk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8zLzUv/SDZwSVJhLmpwZw);
+    
+    }
+    a{
+color: cornsilk;
+
+    }
